@@ -50,7 +50,5 @@ function junat() {
         console.error('Error:', error);
         });
     
-    fetch(url)
-        .then(response => response.json())
-        .then(malumot => console.log(malumot[6])) 
+     
 }

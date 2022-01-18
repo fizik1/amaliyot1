@@ -5,8 +5,16 @@
 body{
     width:100vw;
     height:100vh;
-    background-image:url("./img/5651990.jpg");
-    color:#fff
+    background-image: url("../img/5651990.jpg");
+    color: #fff;
+    
+}
+a{
+    text-decoration:none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
 }
 .container{
     padding-top: 100px;
@@ -38,6 +46,10 @@ h1 {
     background-color: #fff;
     
     
+}
+.kirish a{
+    text-decoration: underline;
+    color: blue;
 }
 .login-form{
     margin: auto;
